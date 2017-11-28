@@ -1,0 +1,16 @@
+cd ~
+mkdir my-favorite-things
+cd my-favorite-things
+mkdir books
+cd books
+mkdir max-lucado
+cd max-lucado
+touch he-chose-the-nails
+code books
+echo "" >>
+
+
+cd ../..
+mkdir
+cd
+mkdir

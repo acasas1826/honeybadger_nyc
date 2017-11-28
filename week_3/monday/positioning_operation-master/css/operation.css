@@ -2,10 +2,28 @@ body {
   font: 16px/1.4 Helvetica, Arial, sans-serif;
   background-color: #333;
 }
+.board {
+  position: relative;
+}
 
 .operation {
   background-color: white;
   margin: 0 auto;
   padding: 10px;
   width: 400px;
+}
+.chip-breadbasket {
+  position: absolute;
+  top: 450px;
+  right: 340px;
+}
+.chip-butterflies {
+  position: absolute;
+  top: 340px;
+  right: 310px;
+}
+.chip-wishbone {
+  position: absolute;
+  top: 48px;
+  right: 183px;
 }
